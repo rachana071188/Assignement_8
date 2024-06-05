@@ -1,0 +1,91 @@
+[INFO ] 2024-03-01 12:53:05.311 [main] homePageTitle - the Home page title is printing
+[INFO ] 2024-03-01 12:53:49.983 [main] homePageTitle - the Home page title is printing
+[INFO ] 2024-03-01 12:53:58.511 [main] testCourseList - the BA Courses list is displayed
+[INFO ] 2024-03-01 12:53:58.628 [main] testCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-03-01 12:54:10.580 [main] testlogin - click the login button
+[INFO ] 2024-03-01 12:54:10.580 [main] testlogin - switch to the new window
+[INFO ] 2024-03-01 12:54:10.581 [main] testlogin - enter the Invalid Username and Password
+[INFO ] 2024-03-01 12:54:10.581 [main] testlogin - click the login button to checking the login in credentials
+[INFO ] 2024-03-01 15:11:47.941 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-03-01 15:11:58.435 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-03-01 15:11:58.622 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-03-01 15:12:08.119 [main] TestLogin - click the login button
+[INFO ] 2024-03-01 15:12:08.120 [main] TestLogin - switch to the new window
+[INFO ] 2024-03-01 15:12:08.120 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-03-01 15:12:08.121 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-03-01 15:12:30.097 [main] TestLogin - switch to alert window
+[INFO ] 2024-03-01 15:12:30.098 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-03-01 15:49:23.728 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-03-01 15:49:33.844 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-03-01 15:49:34.041 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-03-01 15:49:43.829 [main] TestLogin - click the login button
+[INFO ] 2024-03-01 15:49:43.830 [main] TestLogin - switch to the new window
+[INFO ] 2024-03-01 15:49:43.831 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-03-01 15:49:43.832 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-03-01 15:50:05.325 [main] TestLogin - switch to alert window
+[INFO ] 2024-03-01 15:50:05.326 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-20 18:02:32.656 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-20 18:02:32.887 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-20 18:03:51.106 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-20 18:04:04.142 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-20 18:04:04.381 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-20 18:04:16.183 [main] TestLogin - click the login button
+[INFO ] 2024-05-20 18:04:16.183 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-20 18:04:16.184 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-20 18:04:16.184 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-20 18:04:38.143 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-20 18:04:38.144 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-20 18:11:57.606 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-20 18:12:10.013 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-20 18:12:10.250 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-20 18:12:23.333 [main] TestLogin - click the login button
+[INFO ] 2024-05-20 18:12:23.333 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-20 18:12:23.335 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-20 18:12:23.336 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-20 18:12:45.190 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-20 18:12:45.192 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-20 18:17:22.165 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-20 18:17:37.831 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-20 18:17:38.073 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-20 18:17:49.892 [main] TestLogin - click the login button
+[INFO ] 2024-05-20 18:17:49.892 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-20 18:17:49.893 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-20 18:17:49.893 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-20 18:18:11.484 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-20 18:18:11.485 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-20 18:28:53.182 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-20 18:29:04.914 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-20 18:29:05.167 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-20 18:29:20.453 [main] TestLogin - click the login button
+[INFO ] 2024-05-20 18:29:20.454 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-20 18:29:20.454 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-20 18:29:20.455 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-20 18:29:41.974 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-20 18:29:41.975 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-21 09:19:53.401 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-21 09:20:05.687 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-21 09:20:05.940 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-21 09:20:18.509 [main] TestLogin - click the login button
+[INFO ] 2024-05-21 09:20:18.509 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-21 09:20:18.509 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-21 09:20:18.509 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-21 09:20:40.798 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-21 09:20:40.798 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-30 21:43:14.104 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-30 21:44:24.487 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-30 21:44:24.677 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-30 21:44:45.373 [main] TestLogin - click the login button
+[INFO ] 2024-05-30 21:44:45.374 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-30 21:44:45.375 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-30 21:44:45.376 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-30 21:45:07.572 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-30 21:45:07.575 [main] TestLogin - Capture the text present in alert window and printing in the console
+[INFO ] 2024-05-31 14:30:29.474 [main] TestHomePageTitle - the Home page title is printing
+[INFO ] 2024-05-31 14:30:41.814 [main] TestCourseList - the BA Courses list is displayed
+[INFO ] 2024-05-31 14:30:42.075 [main] TestCourseList - the BA Courses list is displayed in the console
+[INFO ] 2024-05-31 14:30:52.302 [main] TestLogin - click the login button
+[INFO ] 2024-05-31 14:30:52.302 [main] TestLogin - switch to the new window
+[INFO ] 2024-05-31 14:30:52.303 [main] TestLogin - enter the Invalid Username and Password
+[INFO ] 2024-05-31 14:30:52.303 [main] TestLogin - click the login button to checking the login in credentials
+[INFO ] 2024-05-31 14:31:21.900 [main] TestLogin - switch to alert window
+[INFO ] 2024-05-31 14:31:21.901 [main] TestLogin - Capture the text present in alert window and printing in the console

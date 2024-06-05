@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T09:41:37Z" name="Suite" finished-at="2024-03-01T09:42:32Z" duration-ms="54791">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T09:41:37Z" name="Test" finished-at="2024-03-01T09:42:32Z" duration-ms="54791">
+      <class name="com.assign.testsuite.TestLogin">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.assign.testsuite.TestLogin@437ebf59]" started-at="2024-03-01T15:12:00Z" name="init" finished-at="2024-03-01T15:12:03Z" duration-ms="3817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="test3()[pri:0, instance:com.assign.testsuite.TestLogin@437ebf59]" started-at="2024-03-01T15:12:03Z" name="test3" finished-at="2024-03-01T15:12:30Z" duration-ms="26770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="at3()[pri:0, instance:com.assign.testsuite.TestLogin@437ebf59]" started-at="2024-03-01T15:12:30Z" name="at3" finished-at="2024-03-01T15:12:32Z" duration-ms="1546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at3 -->
+      </class> <!-- com.assign.testsuite.TestLogin -->
+      <class name="com.assign.testsuite.TestHomePageTitle">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.assign.testsuite.TestHomePageTitle@64d43929]" started-at="2024-03-01T15:11:37Z" name="init" finished-at="2024-03-01T15:11:43Z" duration-ms="5729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="test1()[pri:0, instance:com.assign.testsuite.TestHomePageTitle@64d43929]" started-at="2024-03-01T15:11:43Z" name="test1" finished-at="2024-03-01T15:11:48Z" duration-ms="4974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="at1()[pri:0, instance:com.assign.testsuite.TestHomePageTitle@64d43929]" started-at="2024-03-01T15:11:48Z" name="at1" finished-at="2024-03-01T15:11:49Z" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at1 -->
+      </class> <!-- com.assign.testsuite.TestHomePageTitle -->
+      <class name="com.assign.testsuite.TestCourseList">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.assign.testsuite.TestCourseList@1d269ed7]" started-at="2024-03-01T15:11:49Z" name="init" finished-at="2024-03-01T15:11:53Z" duration-ms="4158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="test2()[pri:0, instance:com.assign.testsuite.TestCourseList@1d269ed7]" started-at="2024-03-01T15:11:53Z" name="test2" finished-at="2024-03-01T15:11:58Z" duration-ms="4962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="at2()[pri:0, instance:com.assign.testsuite.TestCourseList@1d269ed7]" started-at="2024-03-01T15:11:58Z" name="at2" finished-at="2024-03-01T15:12:00Z" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at2 -->
+      </class> <!-- com.assign.testsuite.TestCourseList -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
